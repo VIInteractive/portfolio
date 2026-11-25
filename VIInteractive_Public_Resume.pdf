@@ -1,90 +1,423 @@
 %PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/Producer (pypdf)
+/Author (Cody V)
+/Title (Cody V \055 Public Resume)
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Type /Catalog
+/Pages 2 0 R
 >>
 endobj
 4 0 obj
 <<
-/A <<
-/S /URI /Type /Action /URI (https://tempo-review.funbell11.chatgpt.site/)
->> /Border [ 0 0 0 ] /Rect [ 48 693.52 103.3754 704.8 ] /Subtype /Link /Type /Annot
+/Annots [ 5 0 R ]
+/Contents 6 0 R
+/MediaBox [ 0 0 612 792 ]
+/Resources <<
+/Font 7 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://town-after-dark-cody.funbell11.chatgpt.site/)
->> /Border [ 0 0 0 ] /Rect [ 116.4414 693.52 210.4696 704.8 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057town\055after\055dark\055cody\056funbell11\056chatgpt\056site\057)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 48 693.52 142.0282 704.8 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
-/Annots [ 4 0 R 5 0 R ] /Contents 10 0 R /MediaBox [ 0 0 612 792 ] /Parent 9 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 5016
 >>
+stream
+1 0 0 1 0 0 cm
+BT
+/F1 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 48 726 cm
+q
+0.082353 0.12549 0.164706 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 24 Tf
+27 TL
+(Cody V) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 708.8 cm
+q
+0.082353 0.12549 0.164706 rg
+BT
+1 0 0 1 0 3.2 Tm
+/F2 10 Tf
+13.2 TL
+(Game Design Student \174 Systems Design and Prototyping \174 Game Testing) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 692.4 cm
+q
+BT
+1 0 0 1 0 3 Tm
+12.4 TL
+/F1 9.4 Tf
+0.090196 0.309804 0.313725 rg
+0.082353 0.12549 0.164706 rg
+0.090196 0.309804 0.313725 rg
+(Town After Dark demo) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 684.4 cm
+Q
+q
+1 0 0 1 48 659.6 cm
+q
+0.082353 0.12549 0.164706 rg
+BT
+1 0 0 1 0 15.4 Tm
+/F1 9.4 Tf
+12.4 TL
+(Game design student and Master\053 collegiate competitor with paid testing experience for Riot Games and Amazon\054 esports) Tj
+T*
+(teaching experience\054 and a focus on systems design and prototyping\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 638.6 cm
+q
+0.090196 0.309804 0.313725 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F2 9.4 Tf
+13 TL
+(SELECTED PROJECTS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 610.8 cm
+q
+BT
+1 0 0 1 0 15.4 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(Rift Priority \174 Tabletop strategy prototype) Tj
+/F1 9.4 Tf
+T*
+(Designed a two\055player\054 five\055round game\056 Revised the rules for simultaneous choices\054 contested objectives\054 and tied scores\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 569.6 cm
+q
+BT
+1 0 0 1 0 27.8 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(Town After Dark \174 Collaborative social deduction concept) Tj
+/F1 9.4 Tf
+T*
+(Co\055designed a six\055player game with Wyatt\054 featuring hidden roles\054 phone\055based room entry\054 and timed discussion and) Tj
+T*
+(voting\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 548.6 cm
+q
+0.090196 0.309804 0.313725 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F2 9.4 Tf
+13 TL
+(EXPERIENCE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 520.8 cm
+q
+BT
+1 0 0 1 0 15.4 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(Riot Games \174 Paid Playtest Participant \174 Feb 2025 \055 Present) Tj
+/F1 9.4 Tf
+T*
+(Playtest game features and give feedback on mechanics\054 balance\054 and usability\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 492 cm
+q
+BT
+1 0 0 1 0 15.4 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(Amazon \174 Paid Media\054 Anime \046 Localization Test Participant \174 May 2025) Tj
+/F1 9.4 Tf
+T*
+(Participated in paid testing for media and anime content\054 including localization\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 463.2 cm
+q
+BT
+1 0 0 1 0 15.4 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(Target \174 Security Specialist \174 Nov 2025 \055 Present) Tj
+/F1 9.4 Tf
+T*
+(Document incidents\054 coordinate responses with store leaders\054 and train teammates on safety\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 434.4 cm
+q
+BT
+1 0 0 1 0 15.4 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(Chipotle \174 Crew Member \174 Jun 2025 \055 Nov 2025) Tj
+/F1 9.4 Tf
+T*
+(Resolved customer concerns\054 coordinated rushes\054 and helped train new crew members\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 405.6 cm
+q
+BT
+1 0 0 1 0 15.4 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(Sam\047s Club \174 Associate \174 Mar 2025 \055 Sep 2025) Tj
+/F1 9.4 Tf
+T*
+(Handled returns and exchanges\054 answered member questions\054 and explained membership options\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 376.8 cm
+q
+BT
+1 0 0 1 0 15.4 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(iAttend \174 Esports Teacher \174 Mar 2025 \055 Jun 2025) Tj
+/F1 9.4 Tf
+T*
+(Los Angeles School District\056 Taught esports strategy\054 teamwork\054 communication\054 and sportsmanship\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 355.8 cm
+q
+0.090196 0.309804 0.313725 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F2 9.4 Tf
+13 TL
+(EDUCATION AND ESPORTS) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 340.4 cm
+q
+0.082353 0.12549 0.164706 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9.4 Tf
+12.4 TL
+(University of Silicon Valley \174 BA in Game Design\054 in progress \174 Online study \174 GPA 3\0566) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 324 cm
+q
+0.082353 0.12549 0.164706 rg
+BT
+1 0 0 1 0 3 Tm
+/F2 9.4 Tf
+12.4 TL
+(USV Dragons Varsity League of Legends \174 Master\053 ADC and Support \174 Fall 2026 PCL playoffs) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 307.6 cm
+q
+0.082353 0.12549 0.164706 rg
+BT
+1 0 0 1 0 3 Tm
+/F1 9.4 Tf
+12.4 TL
+(Competitive highlights\072 Global Elite in CS\072GO\073 Diamond in Rainbow Six Siege\073 top 100 in Hunt\072 Showdown\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 286.6 cm
+q
+0.090196 0.309804 0.313725 rg
+BT
+1 0 0 1 0 3.6 Tm
+/F2 9.4 Tf
+13 TL
+(SKILLS AND GAME EXPERIENCE) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 258.8 cm
+q
+0.082353 0.12549 0.164706 rg
+BT
+1 0 0 1 0 15.4 Tm
+/F1 9.4 Tf
+12.4 TL
+(Systems design\054 rules design\054 prototyping\054 gameplay testing\054 design documentation\054 bug tracking\054 media and localization) Tj
+T*
+(testing\054 customer support\054 and de\055escalation\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 48 230 cm
+q
+BT
+1 0 0 1 0 15.4 Tm
+12.4 TL
+/F2 9.4 Tf
+0.082353 0.12549 0.164706 rg
+(Game Experience) Tj
+/F1 9.4 Tf
+(  ) Tj
+(\267) Tj
+(  MOBAs \267 Tactical FPS \267 Hero Shooters \267 Battle Royales \267 Extraction Shooters \267 Soulslikes \267 ARPGs \267) Tj
+T*
+(MMORPGs \267 Social Deduction \267 Tabletop Strategy) Tj
+T*
+ET
+Q
+Q
+
+endstream
 endobj
 7 0 obj
 <<
-/PageMode /UseNone /Pages 9 0 R /Type /Catalog
+/F1 8 0 R
+/F2 9 0 R
 >>
 endobj
 8 0 obj
 <<
-/Author (Cody V) /CreationDate (D:20261123162123-08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261123162123-08'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Cody V - Public Resume) /Trapped /False
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 9 0 obj
 <<
-/Count 1 /Kids [ 6 0 R ] /Type /Pages
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
-endobj
-10 0 obj
-<<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 2129
->>
-stream
-Gatm<?$G9d&:NGC0i)Z?!X82/qa>tZAkNbofkhi-,4*.s`g49#*5\<Fpl8kn,U)NOj_tL6/5)EnGOE\N!Hn5qgts4X31n+Wmi0XC@(q:`X4Dmu"NL$l?f*[u1L!$+H6&GJA$pX/CUT^/CO#5IT7/i'DS6-%H:.!T[S&PfT$jncGV-P/f<pO.%;!&(cbI9n$d=+.Hi-I-a8=A5[GL4mWd3]4NOgp^NR2PZ/4CDLk)fZ$j<4j4&)aY!_,Qa3Qj@-#Ulf8[E=pS$pY$UpU"a'ImIWQYarU/ckmai3d3@>K3=KZqI_F.t5cn2XpZa@,D)Ak2RganT3Mr3t&6%h:I*m$q")p'Arp`&*ibC8iFEtD00N]5m0Oj<j\'[jGoid&`:WM5gg?X"1BNsNGI2kjm$NGd5)t_-7ef@hN4J[FY5UHe,S/J-G1df0?<3Y@/L5bX69]753q[=30&KiW=_Mh.JS>b7YK9UeJU&q8LWJiIS4u:93q!mYbpB%*iJm<r(;f0#Wm^SGI\5GBq@C*Fql6Xb=ATF\ZEX>ap!Tf@ij5GAJK'DXa,@1,c2K&89#ANFF.BjjJe(ZVK7Cj5PI"4jU/n'=iG6ejm;2uccF;:JT#p7-PAd]'Zj6_-IiEaA@>'tsiV&>VoWgL<(/gt[n>h^2D'65?W'll!$l'XdOXUF$Z^iU#4<lg6&_0O<>"0oK`@V6&:33G)$AHm6-=2=O#Sc5^IAI:k:idr$[b;:c33.m=6i3peI;4"^Q>P90"q!4$4EIr#,\5_7b$/mmK,\U_#%nW"Hej#1m=ikEEYViEf!I'<!-$*^+MD^b5/=NH((d[6i7>20`c-nd09V<Z.#I3=jl3`65YX(^ajl-Y/DsIIL_eDpP"I202O`s^s4jgA:(m65MKd;=&'=A6.9.2p?S.80m9*PNdR=g#!AMr7OVYU/p1P\mP.t=[h+l4f-?+I7GN-Rt"j=!SbA?chN>qcYaOtn=E)RV0u8ng-CR\W=*UX7qbIWs4f:G:GpD@,+uer0(Ue+)dFHp&GkgTf9l/Y0ANqZ'PFcVm0^ZAJ"6i;q8lbJ3Lc!FD>@W=o)*'8-V([=-eTVsqbsd3IuR-"=Al_6'!e'M2.)&'.0IQE[KSkF*uI6K*&$q,Y+6Q5h9fTh%*g#$2X^<e5fEG/-m-OTA,M2s.V2Iu_bg><?X2,>q:En]Ac1*,&hC[@7m[bjFSf=V.49#a.<WduqBH*!aIS:'Sh1W<ceoKgG.VcHjiA0%Y:=>2K2`+\%]\;d1H-2;Hai:9UH;]531oCjm1h.,lFR)lMuB6<'e7.7U8h9T[[17=JlBr!kfWI9TI<$Ar991MJ8POch.u&O4\I.F80EbXDh)M8qmrAuK9]7g's&0f#SLS`D6i#Rurp>fW[aa-^C>g+R-k^i#^SXcKN.ZdUt6k5W\NhrWd)OtXo7JTg$id*Z0b`qu.:D#=OD-F(Q6M1I(n!:Odk7tn'kKo2H<VSUm>#)<m3(oY_Q#_DAa9tgUq\J`FbBXU\bP^Hje.RPt<>Z@LE"B:4=(@2'!'&k#F'<+Q%,.-%YVsGuK(f;t9*gdi\&pY1\ZJOE''1FphP3UUR,u&Fn9W%sr3lUHM0I0b\_a-HFW@HZmkgOK)^V%+3_=\)Rrq'fG]Xme4rA#@"gPJ+25<]Cr,>)0'U/KR?6p[LLT,BL,[N7LP=HVG*+Y-<0Q&J7KCm)CB$*hTp/p@65FC=JuHMF*+g?/+J_u$'7Uf^%?V'?dW4KlpM[_:0u1j!X/o?98Lk$^$p19:T,i<3sG,aV/Po_>!&Y!dQ[nXm:>_bE@.1O73>32*P'DrDn&Pegd%8K08:6iZPmbr[+.9;QT1Dakn_T\A8cp[fanhgmAJ)tgdjqB6[;/bi<CLK$;UV6SWeT<-uAs1"RmI)k3(_:9BOX8qi1h%Ot\rhEf-ZDmN?]=kY\i^t]dn?RA=PRVN?afudj=QGUh)SrPFZR[^&X,+G)CU;SM1[0L,Kt`4B789t6^[u43H7,f7>QBho/cJ[/4o#&AX./^3#!5.\8rWup)r=Bh@cRV@Bc/6HXu;KhWGA/s5*Kbo0m@-fHfOs6P*F"NI@2HDiO@pe_/+Ep>]-7J]"6Q)dX9[,N4(mpk$4BndGN%B'1Cg(^I[C+@K~>endstream
 endobj
 xref
-0 11
+0 10
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000506 00000 n 
-0000000705 00000 n 
-0000000923 00000 n 
-0000000991 00000 n 
-0000001273 00000 n 
-0000001332 00000 n 
+0000000015 00000 n 
+0000000106 00000 n 
+0000000165 00000 n 
+0000000214 00000 n 
+0000000421 00000 n 
+0000000644 00000 n 
+0000005712 00000 n 
+0000005753 00000 n 
+0000005860 00000 n 
 trailer
 <<
-/ID 
-[<f82d7c7d1980f9460ca96a1bdfdec1bd><f82d7c7d1980f9460ca96a1bdfdec1bd>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 8 0 R
-/Root 7 0 R
-/Size 11
+/Size 10
+/Root 3 0 R
+/Info 1 0 R
 >>
 startxref
-3553
+5972
 %%EOF
