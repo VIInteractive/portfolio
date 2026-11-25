@@ -1,33 +1,19 @@
 # VIInteractive
 
-Game design student focused on systems design, interactive prototypes, and playtesting.
+I’m Cody V., a game design student at the University of Silicon Valley. I build browser prototypes and tabletop rulesets around player decisions, then use playtest feedback to tighten the experience.
 
-## Selected projects
-
-### Tempo
-
-Interactive League of Legends draft prototype. Designed a champion-ranking system using role fit,
-team synergy, and enemy threats. Built hover previews that show a team's strengths and gaps before lock-in.
-
-[Open the Tempo demo](https://tempo-review.funbell11.chatgpt.site)
-
-### Rift Priority
-
-Two-player, five-round tabletop strategy prototype. Revised the rules for simultaneous choices,
-contested objectives, and tied scores.
+## Selected work
 
 ### Town After Dark
-
-Collaborative six-player social deduction concept with hidden roles, phone-based room entry,
-and timed discussion and voting.
+A collaborative six-player social deduction concept. Players join on their phones, receive hidden roles, and use timed discussion and voting to decide whom to trust.
 
 [Open Town After Dark](https://town-after-dark-cody.funbell11.chatgpt.site)
 
+### Rift Priority
+A two-player, five-round tabletop strategy prototype. I revised the rules for simultaneous choices, contested objectives, and ties so both players can resolve turns consistently.
+
 ## Background
 
-- Game design student at the University of Silicon Valley, GPA 3.6.
-- USV Dragons Varsity League of Legends player, Master+ ADC and Support.
-- Paid Riot Games playtest participant since February 2025.
-- Customer service and incident documentation experience.
-
-[View the public résumé](VIInteractive_Public_Resume.pdf)
+- USV Dragons varsity League of Legends player, Master+ ADC and support
+- Esports instructor and paid playtest participant
+- Interested in game design, QA, player experience, and esports operations
